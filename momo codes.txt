@@ -1,0 +1,96 @@
+<main class="cart" id="cart">
+            <div class="cart-content">
+            <header class="header2">
+                <img class="logo-momo" src="icons/Group 24.png">
+                <p class="para">CULTURE</p>
+                <form action="#" class="search-2">
+                    <input type="text" class="search-input" placeholder="Search">
+                    <button class="search-button">
+                    <img class="search-icon" src="icons/icons8-search-60.png"> </img>
+                    </button>
+                    </form> 
+                    <nav class="user-navv2">
+     
+                      <div class="user-navv__icon-box">About</div>
+                      <div class="user-navv__icon-box">Shop</div>
+                      <div class="user-navv__icon-box"><a href="#cart">Cart</a></div>
+                      <div class="user-navv__icon-box">
+                          <div class="dropdown">
+                              
+                          <button onclick="myFunction()" class="dropbtn"> 
+                          <img class="search-menu" src="icons/icons8-menu-rounded-60.png"></button>
+                          <div id="myDropdown" class="dropdown-content">
+                            <a href="#sign-in">Sign In</a>
+                            <a href="#profile">Profile</a>
+                            <a href="#filter">Filter</a>
+                          </div>
+                        </div>
+                      </div>
+                  
+                        <a href="#body">
+                        <img class="search-back" src="icons/icons8-back-arrow-50.png"></a>
+                      </nav>
+                
+            </header>
+
+            <div class="-link-">
+            <div class="link-area">
+             
+              <p class="links">OFFERS</p>
+              <p class="links">YOUR COUPONS</p>
+              <p class="links">NEW IN</p>
+              <p class="links">TOP SHOP</p>
+              <p class="links">TRENDING NOW</p>
+              <p class="links">BRANDS</p>
+              <p class="links">CLEARANCE SALE</p> 
+            
+            </div>
+           </div>
+
+           <div class="-link-2">
+            <div class="link-area">
+             
+              <div style="width: 20%; margin-top: 1rem; margin-left: -20rem;" class="gift-box">
+              <p style="word-spacing: .4rem; width: 90%;" class="links">APPLY COUPON</p></div>
+
+              <p style="color: rgb(27, 27, 27); font-family:'Josefin+Sans', sans-serif; margin-top: 1rem;" class="links">
+              Upto 30% Off On Your First Order</p>
+              
+              <div style="width: 20%; margin-top: 1rem; margin-right: -20rem;" class="gift-box">
+              <p style="word-spacing: .4rem; width: 90%;" class="links">APPLY GIFT CARDS</p></div> 
+            
+            </div>
+           </div>
+<!---
+           <h2 class="your-cart">Your Cart</h2>
+           <div class="cart-clothes">
+             <row class="row">
+               
+              <div class="col-sm-4" >
+                <img class="bill-img" src="bill/1.jpg">
+
+              <div class="info-box">
+                <h2 class="title">Flare Dress With Designed Sleeves</h2>
+                <h2 class="details">Quantity</h2>
+                <h2 class="details">Color</h2>
+                <h3 class="details">White</h3>
+                <h2 class="details">Brand</h2>
+                <h3 class="details">Lias</h3>
+                <button class="remove">Remove</button>
+                <button class="remove">Add To Fav</button></div>
+                
+             </div>
+
+             <div class="col-sm-4">
+                <img class="bill-img" src="bill/2.jpg">
+                
+             </div>
+
+             <div class="col-sm-4" >
+                <img class="bill-img" src="bill/3.jpg">
+             </div>
+
+              
+             </row>-->
+           </div> 
+           </main>
